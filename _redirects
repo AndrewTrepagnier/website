@@ -1,0 +1,4 @@
+# Redirect /blog to subdomain
+/blog/*  https://blog.andrewtrep.com/:splat  301
+/blog    https://blog.andrewtrep.com  301
+
